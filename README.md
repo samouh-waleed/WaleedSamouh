@@ -1,8 +1,11 @@
-### Hi there 👋, Waleed Samouh
-#### Computer Science Student
 ![Computer Science Student](https://github.com/samouh-waleed/WaleedSamouh/blob/main/final%20banner.png)
 
-I'm Waleed from Canada, and I am a second-year Computer Science student at York University.
+# Waleed Samouh
+
+I'm Waleed from Canada, and I am a second-year Computer Science student at York University. 
+
+## Skills and Experience
+- 💻 HTML, CSS, JS
 
 Skills: JS / HTML / CSS/ JAVA
 
