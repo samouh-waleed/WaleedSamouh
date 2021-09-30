@@ -1,6 +1,6 @@
 ### Hi there 👋, Waleed Samouh
 #### Computer Science Student
-![Computer Science Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Computer Science Student](https://github.com/samouh-waleed/WaleedSamouh/blob/main/final%20banner.png)
 
 I'm Waleed from Canada, and I am a second-year Computer Science student at York University.
 
