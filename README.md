@@ -5,7 +5,7 @@
 I'm Waleed from Canada, and I am a second-year Computer Science student at York University. 
 
 ## Skills and Experience
-- 💻 HTML, CSS, JS, Java, C, Bash
+- 💻 HTML, CSS, JS, Java, C, Bash, Python
 - 🔭 I’m currently working on my own website 
 - 🌱 I’m currently learning Java language. 
 ## Coursework
